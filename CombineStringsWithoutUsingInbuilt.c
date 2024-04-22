@@ -2,7 +2,7 @@
 #include<string.h>
 main(){
 	char str1[30],str2[10];
-	int i=0,len1,len2;
+	int i=0,count=0,len1,len2;
 	printf("Enter First Name: ");
 	scanf("%s",&str1);
 	printf("Enter Last Name: ");
